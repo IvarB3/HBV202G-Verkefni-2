@@ -1,5 +1,5 @@
-SYSTEM.OUT.PRINTLN("HELLO, WORLD");
-print('Hello, too')
+SYSTEM.OUT.PRINTLN("HELLO, WORLD");!
+print('Hello, too')!
 int main() {
     std::cout << "Hello World!";
     return 0;
