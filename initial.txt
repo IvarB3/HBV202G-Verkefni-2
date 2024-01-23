@@ -1,4 +1,4 @@
-SYSTEM.OUT.PRINTLN("HELLO, WORLD");!
+SYSTEM.OUT.PRINTLN("HELLO, WORLD");!?
 print('Hello, too')?
 int main() {
     std::cout << "HELLO WORLD!";
